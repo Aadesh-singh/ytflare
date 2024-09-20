@@ -29,6 +29,7 @@ const SearchBar = () => {
         justifyContent: "space-between",
         alignItems: "center",
         mr: { sm: 20 },
+        width: "97%",
       }}
     >
       <input
